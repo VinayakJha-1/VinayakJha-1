@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vinayak Jha</h1>
 <h3 align="center">A passionate product analyst and future analytics product manager</h3>
 
-- 🔭 I’m currently working on **Sports_analytics**
+- 🔭 I’m currently working on **Product Analytics**
 
 - 🌱 I’m currently learning **Looker, Advanced visualization using Python**
 
