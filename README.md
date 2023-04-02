@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Looker, Advanced visualization using Python**
 
-- 👨‍💻 All of my projects are available at [Portfolio Website](https://sites.google.com/view/vinayak-jha)
-
 - 📫 How to reach me **vinayakjha90@gmail.com**
 
 - ⚡ Fun fact **I play ukulele and guitar**
