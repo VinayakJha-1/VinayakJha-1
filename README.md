@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vinayak Jha</h1>
-<h3 align="center">A passionate research, product analyst intrested in Healthcare and policy domain</h3>
+<h3 align="center">A passionate research and a product analyst</h3>
 
 - 🔭 I’m currently working in **Product Analytics**
 
