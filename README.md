@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working in **Product Analytics**
 
-- 🌱 I’m currently learning **Looker, Advanced visualization using Python**
+- 🌱 I’m currently learning ** Deep learning**
 
 - 📫 How to reach me **vinayakjha90@gmail.com**
 
