@@ -7,7 +7,7 @@
 I'm a data guy who likes to dabble into analysis, machine learning, predictions and mostly providing crazy busieness insights.  I love solving real-life social as well as tech problems with data and code.
 - 🔭 I’m currently handling **Product Analytics of E-Health Research Center**
 - 🔭 I was a former **Product Analyst at Whatfix**
--  I completed my masters from **IIIT Bangalore***
+-  I completed my masters from **IIIT Bangalore**
 - 🌱 I’m currently building **Deep learning models**
 - 📫 How to reach me **vinayakjha90@gmail.com**
 
