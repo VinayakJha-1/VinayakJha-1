@@ -27,13 +27,6 @@ I'm a data guy who likes to dabble into analysis, machine learning, predictions 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 
-<br />
-
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=brunocampos01.visitor-badgee&color=green&style=flat-square">
-  
-<!-- <a href="https://hits.seeyoufarm.com"><img align="right" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbrunocampos01%2Fbrunocampos01&count_bg=%233D6BC8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false"/></a> -->
-
-
 
 <details>
   <summary><b> <a href="#"><img src="https://github.com/brunocampos01/brunocampos01/blob/main/images/icon_graduation.png"/></a> Academic Projects</b></summary>
