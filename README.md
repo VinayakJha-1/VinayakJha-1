@@ -5,9 +5,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=035DC5&lines=Data+Analyst;%2B2years+of+coding+experience;Always+learninig+new+things)](https://git.io/typing-svg)
 
 I'm a data guy who likes to dabble into analysis, machine learning, predictions and mostly providing crazy busieness insights.  I love solving real-life social as well as tech problems with data and code.
-- 🔭 I’m currently handling in **Product Analytics at E Health Research Center**
-- 🔭 I worked at Whatfix (A B2B SAAS startup) as **Product Analytics*
-- 🌱 I’m currently learning **Deep learning**
+- 🔭 I’m currently handling **Product Analytics of E-Health Research Center**
+- 🔭 I was a former **Product Analyst at Whatfix**
+- 🌱 I’m currently building **Deep learning models**
 - 📫 How to reach me **vinayakjha90@gmail.com**
 
 <br>
