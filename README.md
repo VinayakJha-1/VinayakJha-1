@@ -123,7 +123,7 @@ I'm a data guy who likes to dabble into analysis, machine learning, predictions 
 </details>
 
 
-
+<details>
   <summary><b> <a href="#"><img src="https://github.com/brunocampos01/brunocampos01/blob/main/images/icon_graduation.png"/></a> Data Engineering Projects</b></summary>
   <table>
     <thead align="center">
