@@ -30,7 +30,7 @@ I'm a data guy who likes to dabble into analysis, machine learning, predictions 
 	</td>
       	<td>
 		<a href="https://github.com/VinayakJha-1/Bengaluru_to_Jharkhand_Migration">
-		<img src="https://github-readme-stats.vercel.app/api/pin/?username=VinayakJha 1&repo=Bengaluru_to_Jharkhand_Migration&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
+		<img src="https://github-readme-stats.vercel.app/api/pin/?username=VinayakJha-1&repo=Bengaluru_to_Jharkhand_Migration&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
 	</td>
       </tr>
       <tr>
