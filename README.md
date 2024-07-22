@@ -1,5 +1,5 @@
-<h1 align="center">Hi  </h1>
-# 👋 Kon'nichiwa​, I am Vinayak Jha
+
+#  🏄‍♂️ Kon'nichiwa​, I am Vinayak Jha
 
 **`Creative Analytics `**
 
