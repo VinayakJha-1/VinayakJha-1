@@ -25,16 +25,67 @@ I'm a data guy who likes to dabble into analysis, machine learning, predictions 
 
 <br />
 
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=brunocampos01.visitor-badgee&color=green&style=flat-square">
+  
+<!-- <a href="https://hits.seeyoufarm.com"><img align="right" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbrunocampos01%2Fbrunocampos01&count_bg=%233D6BC8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false"/></a> -->
 
-#
-<!--
-<details>
- <summary><h3>👨‍💻 Forrest's Coding Journey</h3></summary>
-   I started my coding journey as a naive computer science student with a passion to learn everything I could about this programming world - code, unix, linux, theory. And all the while, teaching myself iOS development with a dream to build my own app, but that soon got overshadowed by my desire to excel in Java. A desire that landed me a full-stack software engineering job upon graduation. However, I had another desire I had been pursuing throughout this time - YouTube content creation. I eventually ended up quitting my software engineering job to pursue YouTube full-time, and that has been my focus ever since. But there's something that's always bothered me about my journey - abandoning my dream of building my own app to pursue the safe route, a job. Now I've already taken the leap away from that safety net into this uncomfortable, unexplored world that it being a creator. And it worked out, but again, it became comfortable. It's easier to create a video than go out on a ledge and build my own product. I do have to eat, at the end of the day, but I think it's time. It's time to get uncomfortable again. I have a burning desire to get back on the horse, and fulfill that dream younger me had of building my own app, my own product. And in order to do that, I'll be implmementing a few measures to streamline my YouTube content to focus more time on fulfilling that dream - a dream that I'll be ready to tackle in 2023 due to the measure I'm putting in place now until the end of 2022. Don't wait up, because I'm coming.
+## Hey There, I'm Bruno Campos 
+<!-- <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=brunocampos01&badges=3&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px" width="35%" align="right"> -->
+ 
+<p align="left">
+  <a href="https://readme-typing-svg.herokuapp.com?color=0353B1&lines=Software+Engineer;6%2B+years+of+coding+experience;Always+learninig+new+things)]></a>
+</p>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=035DC5&lines=Software+Engineer;%2B6+years+of+coding+experience;Always+learninig+new+things)](https://git.io/typing-svg)
+
+<details>	
+  <summary><a href="#"><img src="https://github.com/brunocampos01/brunocampos01/blob/main/images/icon_github.png"/></a><b> Github Profile Stats</b></summary>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunocampos01&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=79ff97&icon_color=79ff97" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunocampos01&exclude_repo=machine-learning&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=79ff97&icon_color=79ff97"/>
+  <br/>
+</details>
+
+<!-- 
+<details>	
+<summary><a href="#"><img src="https://github.com/brunocampos01/brunocampos01/blob/main/images/icon_minimum-value.png"/></a><b> Contribuition Time Series</b></summary>
+<img src="https://activity-graph.herokuapp.com/graph?username=brunocampos01&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+</details>
 -->
-[website]: https://fkcodes.com
-[youtube]: https://youtube.com/fknight
 
+<br/>
 
-  
-  
+### <a href="#"><img src="https://github.com/brunocampos01/brunocampos01/blob/main/images/icon_open-source.png"/></a> My Open Souce Projects
+<details>
+  <summary><b> <a href="#"><img src="https://github.com/brunocampos01/brunocampos01/blob/main/images/icon_graduation.png"/></a> Academic Projects</b></summary>
+  <table>
+    <thead align="center">
+      <tr border: none;>
+	<td><b><a href="#"></a>Projects</b></td>
+        <td><b><a href="#"></a>Summary</b></td>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+      	<td>
+		<a href="https://github.com/brunocampos01/teoria-da-computacao">
+		<b>Teoria da Computação</b></a>
+	</td>
+      	<td>
+		<a href="https://github.com/brunocampos01/teoria-da-computacao">
+		<img src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=teoria-da-computacao&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
+	</td>
+      </tr>
+      <tr>
+	<td>
+		<a href="https://github.com/brunocampos01/introducao-a-programacao-orientada-a-objetos">
+		<b>Introdução a Programação Orientada à Objetos</b></a>
+	</td>
+        <td>
+		<a href="https://github.com/brunocampos01/introducao-a-programacao-orientada-a-objetos">
+		<img src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=introducao-a-programacao-orientada-a-objetos&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
+	</td>
+      </tr>
+    </tbody>
+  </table>
+  <br />
+</details>
