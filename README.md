@@ -7,7 +7,7 @@
 
 **`Creative Analytics `**
 
-I'm a data guy who likes to dabble into analysis, machine learning, predictions and mostly providing best busieness insights.  I love solving real-life social as well as tech problems problems with data and code.
+I'm a data guy who likes to dabble into analysis, machine learning, predictions and mostly providing crazy busieness insights.  I love solving real-life social as well as tech problems with data and code.
 - 🔭 I’m currently working in **Product Analytics**
 - 🌱 I’m currently learning **Deep learning**
 - 📫 How to reach me **vinayakjha90@gmail.com**
