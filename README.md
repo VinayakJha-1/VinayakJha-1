@@ -48,7 +48,8 @@ I'm a data guy who likes to dabble into analysis, machine learning, predictions 
 </details>
 
 
-
+<details>
+	
   <summary><b> <a href="#"><img src="https://github.com/brunocampos01/brunocampos01/blob/main/images/icon_graduation.png"/></a> Data Analytics Projects</b></summary>
   <table>
     <thead align="center">
@@ -85,7 +86,8 @@ I'm a data guy who likes to dabble into analysis, machine learning, predictions 
 
 
 
-
+<details>
+	
   <summary><b> <a href="#"><img src="https://github.com/brunocampos01/brunocampos01/blob/main/images/icon_graduation.png"/></a> Data Science Projects</b></summary>
   <table>
     <thead align="center">
