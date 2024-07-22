@@ -27,8 +27,9 @@ I'm a data guy who likes to dabble into analysis, machine learning, predictions 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 
-
+<br/>
 <details>
+	
   <summary><b> <a href="#"><img src="https://github.com/brunocampos01/brunocampos01/blob/main/images/icon_graduation.png"/></a> Academic Projects</b></summary>
   <table>
     <thead align="center">
@@ -41,7 +42,7 @@ I'm a data guy who likes to dabble into analysis, machine learning, predictions 
       <tr>
       	<td>
 		<a href="https://github.com/brunocampos01/teoria-da-computacao">
-		<b>Teoria da Computação</b></a>
+		<b>Migrants Analysis</b></a>
 	</td>
       	<td>
 		<a href="https://github.com/brunocampos01/teoria-da-computacao">
@@ -51,7 +52,7 @@ I'm a data guy who likes to dabble into analysis, machine learning, predictions 
       <tr>
 	<td>
 		<a href="https://github.com/brunocampos01/introducao-a-programacao-orientada-a-objetos">
-		<b>Introdução a Programação Orientada à Objetos</b></a>
+		<b>Economic Analysis</b></a>
 	</td>
         <td>
 		<a href="https://github.com/brunocampos01/introducao-a-programacao-orientada-a-objetos">
