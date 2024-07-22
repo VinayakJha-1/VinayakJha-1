@@ -35,16 +35,6 @@ I'm a data guy who likes to dabble into analysis, machine learning, predictions 
 
 
 
-<!-- 
-<details>	
-<summary><a href="#"><img src="https://github.com/brunocampos01/brunocampos01/blob/main/images/icon_minimum-value.png"/></a><b> Contribuition Time Series</b></summary>
-<img src="https://activity-graph.herokuapp.com/graph?username=brunocampos01&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-</details>
--->
-
-<br/>
-
-### <a href="#"><img src="https://github.com/brunocampos01/brunocampos01/blob/main/images/icon_open-source.png"/></a> My Open Souce Projects
 <details>
   <summary><b> <a href="#"><img src="https://github.com/brunocampos01/brunocampos01/blob/main/images/icon_graduation.png"/></a> Academic Projects</b></summary>
   <table>
