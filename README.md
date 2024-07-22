@@ -62,22 +62,12 @@ I'm a data guy who likes to dabble into analysis, machine learning, predictions 
     <tbody>
       <tr>
       	<td>
-		<a href="https://github.com/brunocampos01/teoria-da-computacao">
+		<a href="https://github.com/VinayakJha-1/Product_sales_analaysis">
 		<b>Migrants Analysis</b></a>
 	</td>
       	<td>
-		<a href="https://github.com/brunocampos01/teoria-da-computacao">
-		<img src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=teoria-da-computacao&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
-	</td>
-      </tr>
-      <tr>
-	<td>
-		<a href="https://github.com/brunocampos01/introducao-a-programacao-orientada-a-objetos">
-		<b>Economic Analysis</b></a>
-	</td>
-        <td>
-		<a href="https://github.com/brunocampos01/introducao-a-programacao-orientada-a-objetos">
-		<img src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=introducao-a-programacao-orientada-a-objetos&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
+		<a href="https://github.com/VinayakJha-1/Product_sales_analaysis">
+		<img src="https://github-readme-stats.vercel.app/api/pin/?username=VinayakJha-1&repo=Product_sales_analaysis&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
 	</td>
       </tr>
     </tbody>
@@ -89,7 +79,7 @@ I'm a data guy who likes to dabble into analysis, machine learning, predictions 
 
 <details>
 	
-  <summary><b> <a href="#"><img src="https://github.com/brunocampos01/brunocampos01/blob/main/images/icon_graduation.png"/></a> Data Science Projects</b></summary>
+  <summary><b> <a href="#"><img src="https://github.com/brunocampos01/brunocampos01/blob/main/images/icon_graduation.png"/></a> Product Management Projects</b></summary>
   <table>
     <thead align="center">
       <tr border: none;>
