@@ -77,6 +77,9 @@ I'm a data guy who likes to dabble into analysis, machine learning, predictions 
 </details>
 
 
+Currently Reading 
+
+https://khuyentran1401.github.io/Efficient_Python_tricks_and_tools_for_data_scientists/Chapter6/alternative_approach.html
 
 
 <h3 align="left">Connect with me:</h3>
